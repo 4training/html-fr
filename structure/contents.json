@@ -1,0 +1,144 @@
+{
+    "language_code": "fr",
+    "english_name": "French",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "L'histoire de Dieu (cinq doigts)",
+            "filename": "Lhistoire_de_Dieu_(cinq_doigts).html",
+            "version": "2.1",
+            "pdf": "Lhistoire_de_Dieu_(cinq_doigts).pdf"
+        },
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "L\u2019histoire de Dieu",
+            "filename": "Lhistoire_de_Dieu.html",
+            "version": "1.5"
+        },
+        {
+            "page": "Baptism",
+            "title": "Bapt\u00eame",
+            "filename": "Bapt\u00eame.html",
+            "version": "2.1",
+            "pdf": "Bapt\u00eame.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "La pri\u00e8re",
+            "filename": "La_pri\u00e8re.html",
+            "version": "1.1",
+            "pdf": "La_pri\u00e8re.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Apprendre \u00e0 pardonner",
+            "filename": "Apprendre_\u00e0_pardonner.html",
+            "version": "1.1",
+            "pdf": "Apprendre_\u00e0_pardonner.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Passer du temps avec Dieu",
+            "filename": "Passer_du_temps_avec_Dieu.html",
+            "version": "1.2",
+            "pdf": "Passer_du_temps_avec_Dieu.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "Entendre la voix de Dieu",
+            "filename": "Entendre_la_voix_de_Dieu.html",
+            "version": "1.2",
+            "pdf": "Entendre_la_voix_de_Dieu.pdf"
+        },
+        {
+            "page": "Church",
+            "title": "L'\u00e9glise",
+            "filename": "L\u00e9glise.html",
+            "version": "2.0",
+            "pdf": "L\u00e9glise.pdf"
+        },
+        {
+            "page": "Healing",
+            "title": "Gu\u00e9rison",
+            "filename": "Gu\u00e9rison.html",
+            "version": "1.0",
+            "pdf": "Gu\u00e9rison.pdf"
+        },
+        {
+            "page": "My_Story_with_God",
+            "title": "Mon histoire avec Dieu",
+            "filename": "Mon_histoire_avec_Dieu.html",
+            "version": "1.1",
+            "pdf": "Mon_histoire_avec_Dieu.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Conseils pour la lecture de la Bible",
+            "filename": "Conseils_pour_la_lecture_de_la_Bible.html",
+            "version": "2.0",
+            "pdf": "Conseils_pour_la_lecture_de_la_Bible.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Conseils pour la lecture de la Bible (Sept Histoires pleines d'Espoir)",
+            "filename": "Conseils_pour_la_lecture_de_la_Bible_(Sept_Histoires_pleines_dEspoir).html",
+            "version": "2.0",
+            "pdf": "Conseils_pour_la_lecture_de_la_Bible_(Sept_Histoires_pleines_dEspoir).pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Conseils pour la lecture de la Bible",
+            "filename": "Conseils_pour_la_lecture_de_la_Bible.html",
+            "version": "1.2",
+            "pdf": "Conseils_pour_la_lecture_de_la_Bible.pdf"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "Le processus trois-tiers",
+            "filename": "Le_processus_trois-tiers.html",
+            "version": "1.0",
+            "pdf": "Le_processus_trois-tiers.pdf"
+        },
+        {
+            "page": "Training_Meeting_Outline",
+            "title": "Sch\u00e9ma des parcours de formations",
+            "filename": "Sch\u00e9ma_des_parcours_de_formations.html",
+            "version": "0.9"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Une Pri\u00e8re Quotidienne",
+            "filename": "Une_Pri\u00e8re_Quotidienne.html",
+            "version": "1.0",
+            "pdf": "Une_Priere_Quotidienne.pdf"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "Vaincre la peur et la col\u00e8re",
+            "filename": "Vaincre_la_peur_et_la_col\u00e8re.html",
+            "version": "1.0",
+            "pdf": "Vaincre_la_peur_et_la_col\u00e8re.pdf"
+        },
+        {
+            "page": "Family_and_our_Relationship_with_God",
+            "title": "La famille et notre relation avec Dieu",
+            "filename": "La_famille_et_notre_relation_avec_Dieu.html",
+            "version": "1.0",
+            "pdf": "La_famille_et_notre_relation_avec_Dieu.pdf"
+        },
+        {
+            "page": "How_to_Continue_After_a_Prayer_Time",
+            "title": "Comment continuer apr\u00e8s un temps de pri\u00e8re",
+            "filename": "Comment_continuer_apr\u00e8s_un_temps_de_pri\u00e8re.html",
+            "version": "1.0",
+            "pdf": "Comment_continuer_apr\u00e8s_un_temps_de_pri\u00e8re.pdf"
+        },
+        {
+            "page": "Four_Kinds_of_Disciples",
+            "title": "Quatre types des disciples",
+            "filename": "Quatre_types_des_disciples.html",
+            "version": "1.1",
+            "pdf": "Quatre_types_des_disciples.pdf"
+        }
+    ]
+}
